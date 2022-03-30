@@ -1,0 +1,13 @@
+Materia: progrogramacion web
+Nombre y Apellido: axel medina
+Cedula: 28.520.961
+
+Actividad: creacion de archivos .txt y directorios 
+(block de notas)
+
+
+Host: https://blockdenotasaxelmedina.000webhostapp.com/index.php
+
+
+Github: https://github.com/AxelM2001/pozo-petrolero-php
+
